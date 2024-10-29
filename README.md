@@ -1,9 +1,9 @@
 # LR6
 this is test
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello Olga\n";
+    cout << "Hello Olga\n";
 
 
