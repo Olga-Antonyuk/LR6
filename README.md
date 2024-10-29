@@ -8,5 +8,3 @@ int main()
 lmb;
 
 ld nfklgvtrd
-
-ziniakova dura
