@@ -5,7 +5,6 @@ this is test
 int main()
 {
     std::cout << "Hello Olga\n";
-lmb;ld nfklgvtrd
-piska bobra
+lmb;
 
-parhomenko loh
+ld nfklgvtrd
