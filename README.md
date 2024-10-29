@@ -5,5 +5,5 @@ this is test
 int main()
 {
     std::cout << "Hello Olga\n";
-lmb;
+
 
