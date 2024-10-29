@@ -7,4 +7,3 @@ int main()
     std::cout << "Hello Olga\n";
 lmb;
 
-ld nfklgvtrd
