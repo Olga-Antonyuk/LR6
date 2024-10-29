@@ -4,6 +4,7 @@ this is test
 using namespace std;
 int main()
 {
-    cout << "Hello Olga\n";
+    cout << "Hello World\n";
+    }
 
 
