@@ -1,0 +1,32 @@
+#include <iostream>
+#include "windows.h"
+#define _USE_MATH_DEFINES 
+#include <math.h> 
+
+
+using namespace std;
+
+int main()
+{
+	SetConsoleCP(1251);
+	SetConsoleOutputCP(1251);
+
+	float x1, x2, h, x, y;
+	
+	cout << "Введіть початкове значення:";
+	cin >> x1;
+	cout << "Введіть кінцеве значення:";
+	cin >> x2;
+	cout << "Введіть крок функції:";
+	cin >> h;
+
+	x = x1;
+
+
+	while (x < x2 + h / 2) {
+
+		y = sin(pow(x, 1 / 2)) + pow(M_E, x) - 3;
+		cout << "x=" << x << "\t y= " << y << endl;
+		x = x + h;
+}
+}
