@@ -21,7 +21,7 @@ int main()
 	cin >> h;
 
 	x = x1;
-
+new......
 
 	while (x < x2 + h / 2) {
 
