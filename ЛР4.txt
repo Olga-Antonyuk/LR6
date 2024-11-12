@@ -11,6 +11,10 @@ int main()
 SetConsoleOutputCP(1251);
 float a;
 cout << "Input A:";
+cout << "Input A:";
+cout << "Input A:";
+cout << "Input A:";
+
 cin >> a;
 
 (a > 0 || a == 0) ? cout << "Число А є позитивним або нулем" : cout << "Число А не є позитивним або нулем";
